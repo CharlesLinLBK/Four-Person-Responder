@@ -7,7 +7,7 @@
 ## 注：
 1. 本项目参考了 gerdios 大佬的[「大作业实录：基于 verilog 的简易抢答器设计和 quartusII 仿真」](https://blog.csdn.net/gerdios/article/details/110501838?spm=1001.2014.3001.5506)；
 2. Frequency模块为时钟分频模块，Counter模块为倒计时模块，Main模块为抢答及判定模块，Record模块为计分模块；
-3. 本项目目前仅支持使用Quartus II自带的仿真，想要使用Modeisim仿真可以自行编写testbench文件；
+3. 本项目目前仅支持使用Quartus II自带的仿真，想要使用Modelsim仿真可以自行编写testbench文件；
 4. 本人仅编写了各模块代码，顶层代码并未编写，仅通过生成电路图进行编译仿真；
 5. 本项目输入与输出引脚(应该)可以直接作为按键输入的输出引脚及显示屏的输入引脚使用；
 6. 此为EDA课设，因此使用Verilog HDL语言；
